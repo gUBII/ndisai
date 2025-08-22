@@ -1,6 +1,6 @@
-# Project Nexus
+# Project NdisAi
 
-Project Nexus extends the Nexis365 platform to support the National Disability Insurance Scheme (NDIS). Its aim is to reduce administrative burden, improve coordination and deliver participant‑centred outcomes through responsible use of data and AI.
+Project NdisAI extends the Nexis365 platform to support the National Disability Insurance Scheme (NDIS). Its aim is to reduce administrative burden, improve coordination and deliver participant‑centred outcomes through responsible use of data and AI.
 This README summarises the concept deck, pilot plan, compliance strategy and investment rationale for the NDIS-aligned innovation.
 
 ## Problem & Opportunity
